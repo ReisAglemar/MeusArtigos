@@ -1,5 +1,6 @@
 # Meus artigos
 
+<div>
 ## Fundamentos da computação quântica
 
 ### Resumo
@@ -10,3 +11,4 @@ faz necessário qualquer tipo de pré-requisitos para sua leitura e entendimento
 
 ### Palavras-chave:
 Computação; Quântica; Transistores; Qubits
+</div>
